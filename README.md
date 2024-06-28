@@ -1,7 +1,7 @@
 # Cultural Centers Across California State University (CSU) Campuses
 
 ## Overview
-This document provides a detailed overview of the cultural centers across the 23 CSU campuses. Each section includes the link to the cultural center, staff information, associated student organizations, and ASI connections. Additionally, organizational charts and structural details of these centers are provided where available.
+This document provides a detailed overview of the cultural centers across the 23 CSU campuses. Each section includes the link to the cultural center, staff information, associated student organizations, ASI connections, and organizational charts and structural details of these centers where available.
 
 ### 1. California State University, Bakersfield
 **Link to their cultural center:**  
@@ -18,6 +18,9 @@ This document provides a detailed overview of the cultural centers across the 23
 **ASI Connections:**  
 The Multicultural Center collaborates with ASI to support diverse student populations through events and resources.
 
+**Organizational Chart & Structural Information:**
+The cultural centers at CSU Bakersfield are overseen by a Director of Multicultural Affairs, who reports to the Vice President for Student Affairs. Each cultural center is managed by a coordinator and supported by student staff.
+
 ### 2. California State University, Channel Islands
 **Link to their cultural center:**  
 [Multicultural Dream Center](https://www.csuci.edu/iss/brochure20.pdf)
@@ -32,6 +35,9 @@ The Multicultural Center collaborates with ASI to support diverse student popula
 **ASI Connections:**  
 The Multicultural Dream Center collaborates with ASI to support educational missions and enhance student life.
 
+**Organizational Chart & Structural Information:**
+The Multicultural Dream Center is part of the Division of Student Affairs. It is led by a Director who coordinates with other cultural center coordinators and student staff. The structure includes a hierarchy of professional staff and student leaders.
+
 ### 3. California State University, Chico
 **Link to their cultural center:**  
 [Cross-Cultural Leadership Center](https://www.csuchico.edu/cclc/)
@@ -45,6 +51,9 @@ The Multicultural Dream Center collaborates with ASI to support educational miss
 **Each center is made up of anywhere from 4 - 6 student staff.**  
 **ASI Connections:**  
 The center works with ASI to provide support and resources for a diverse student body.
+
+**Organizational Chart & Structural Information:**
+The Cross-Cultural Leadership Center at CSU Chico operates under the Student Affairs division, with each cultural center managed by a dedicated coordinator. The center director oversees all activities and reports to the Vice President for Student Affairs.
 
 ### 4. California State University, Dominguez Hills
 **Link to their cultural center:**  
@@ -63,6 +72,9 @@ The center works with ASI to provide support and resources for a diverse student
 **ASI Connections:**  
 These centers collaborate with ASI to enhance student life and support diverse student populations.
 
+**Organizational Chart & Structural Information:**
+The cultural centers at CSU Dominguez Hills are part of the Student Affairs division. Each center has a coordinator who reports to the Director of Multicultural Affairs. The Director oversees the activities and management of all cultural centers.
+
 ### 5. California State University, East Bay
 **Link to their cultural center:**  
 [Diversity & Inclusion Center](https://www.csueastbay.edu/diversity/)
@@ -78,6 +90,9 @@ These centers collaborate with ASI to enhance student life and support diverse s
 **ASI Connections:**  
 The Diversity & Inclusion Center works with ASI to support the university's diverse student body.
 
+**Organizational Chart & Structural Information:**
+The Diversity & Inclusion Center is part of the Division of Student Affairs. The center is led by a Director who oversees various cultural center coordinators and student staff.
+
 ### 6. California State University, Fresno
 **Link to their cultural center:**  
 [Cross Cultural and Gender Center](https://www.fresnostate.edu/studentaffairs/ccgc/)
@@ -92,23 +107,10 @@ The Diversity & Inclusion Center works with ASI to support the university's dive
 **ASI Connections:**  
 The center collaborates with ASI to provide events and resources that support diverse students.
 
-### 7. California State University, Fullerton
-**Link to their cultural center:**  
-[Multicultural Student Center](https://www.fullerton.edu/mcsc/)
+**Organizational Chart & Structural Information:**
+The Cross Cultural and Gender Center at CSU Fresno is part of the Student Affairs division. It is overseen by a Director, with each cultural program managed by a coordinator who supervises student staff.
 
-**Made up of 4 professional staff**  
-**5 other cultural centers:**
-- Asian Pacific American Resource Center
-- Chicana and Chicano Resource Center
-- African American Resource Center
-- LGBTQ+ Resource Center
-- Women's Resource Center
-
-**Each center is made up of anywhere from 4 - 6 student staff.**  
-**ASI Connections:**  
-The Multicultural Student Center works with ASI to support and enhance the student experience.
-
-### 8. Humboldt State University
+### 7. Humboldt State University
 **Link to their cultural center:**  
 [Multicultural Center](https://diversity.humboldt.edu/multicultural-center)
 
@@ -123,7 +125,10 @@ The Multicultural Student Center works with ASI to support and enhance the stude
 **ASI Connections:**  
 The Multicultural Center collaborates with ASI to support and celebrate diverse student populations.
 
-### 9. California State University, Long Beach
+**Organizational Chart & Structural Information:**
+The Multicultural Center at Humboldt State University is part of the Division of Student Affairs. Each center is led by a coordinator who reports to the Director of Multicultural Affairs. Student staff support the activities and initiatives of each center.
+
+### 8. California State University, Long Beach
 **Link to their cultural center:**  
 [The Multicultural Center](https://www.csulb.edu/student-affairs/cultural-centers)
 
@@ -137,7 +142,10 @@ The Multicultural Center collaborates with ASI to support and celebrate diverse 
 **ASI Connections:**  
 The Multicultural Center collaborates with ASI to support the educational mission and enhance student life on campus.
 
-### 10. California State University, Los Angeles
+**Organizational Chart & Structural Information:**
+The cultural centers at CSU Long Beach are part of the Division of Student Affairs. Each center is managed by a coordinator who reports to the Director of Multicultural Affairs. Professional and student staff support the operations of each center.
+
+### 9. California State University, Los Angeles
 **Link to their cultural center:**  
 [Cross Cultural Centers](https://www.calstatela.edu/crossculturalcenter)
 
@@ -152,7 +160,10 @@ The Multicultural Center collaborates with ASI to support the educational missio
 **ASI Connections:**  
 The Cross Cultural Centers collaborate with ASI to provide events and resources for diverse student populations.
 
-### 11. California State University, Monterey Bay
+**Organizational Chart & Structural Information:**
+The Cross Cultural Centers at CSU Los Angeles operate under the Division of Student Affairs. Each cultural center has a dedicated coordinator who reports to the Director of Multicultural Affairs, who in turn reports to the Vice President for Student Affairs.
+
+### 10. California State University, Monterey Bay
 **Link to their cultural center:**  
 [Otter Cross Cultural Center](https://csumb.edu/oc3)
 
@@ -166,7 +177,10 @@ The Cross Cultural Centers collaborate with ASI to provide events and resources 
 **ASI Connections:**  
 The Otter Cross Cultural Center works with ASI to support the university's diverse student body.
 
-### 12. California State University, Northridge
+**Organizational Chart & Structural Information:**
+The Otter Cross Cultural Center is part of the Division of Student Affairs. It is led by a Director who supervises the coordinators of each cultural center. Each center is supported by student staff.
+
+### 11. California State University, Northridge
 **Link to their cultural center:**  
 [Pride Center](https://www.csun.edu/pride)
 
@@ -177,11 +191,16 @@ The Otter Cross Cultural Center works with ASI to support the university's diver
 - Asian House
 - Women's House
 
-**Each center is made up of anywhere from 4 - 6 student staff.**  
+**Each center is made up of anywhere from 4 -
+
+ 6 student staff.**  
 **ASI Connections:**  
 The Pride Center collaborates with ASI to provide resources and support for diverse students.
 
-### 13. California State Polytechnic University, Pomona
+**Organizational Chart & Structural Information:**
+The Pride Center at CSU Northridge is part of the Division of Student Affairs. Each house has a coordinator who reports to the Director of Multicultural Affairs. The Director oversees all cultural center activities.
+
+### 12. California State Polytechnic University, Pomona
 **Link to their cultural center:**  
 [Office of Student Life and Cultural Centers](https://www.cpp.edu/student-affairs/topics/diversity.shtml)
 
@@ -198,7 +217,10 @@ The Pride Center collaborates with ASI to provide resources and support for dive
 **ASI Connections:**  
 The Office of Student Life and Cultural Centers works with ASI to support and celebrate the diversity of the student body.
 
-### 14. California State University, Sacramento
+**Organizational Chart & Structural Information:**
+The cultural centers at Cal Poly Pomona are part of the Division of Student Affairs. Each center has a coordinator who reports to the Director of Multicultural Affairs. The Director supervises all cultural center activities and initiatives.
+
+### 13. California State University, Sacramento
 **Link to their cultural center:**  
 [The Multi-Cultural Center](https://www.csus.edu/student-affairs/centers-programs/multi-cultural-center/)
 
@@ -213,7 +235,10 @@ The Office of Student Life and Cultural Centers works with ASI to support and ce
 **ASI Connections:**  
 The Multi-Cultural Center collaborates with ASI to provide support and resources for diverse student populations.
 
-### 15. California State University, San Bernardino
+**Organizational Chart & Structural Information:**
+The Multi-Cultural Center at CSU Sacramento is part of the Division of Student Affairs. It is overseen by a Director who supervises the coordinators of each cultural center. Each center is supported by professional and student staff.
+
+### 14. California State University, San Bernardino
 **Link to their cultural center:**  
 [Cross Cultural Center](https://www.csusb.edu/cross-cultural-center)
 
@@ -228,7 +253,10 @@ The Multi-Cultural Center collaborates with ASI to provide support and resources
 **ASI Connections:**  
 The Cross Cultural Center collaborates with ASI to support the diverse student body at CSUSB.
 
-### 16. San Diego State University
+**Organizational Chart & Structural Information:**
+The Cross Cultural Center at CSU San Bernardino is part of the Division of Student Affairs. Each center has a coordinator who reports to the Director of Multicultural Affairs. The Director oversees all cultural center activities and supervises the student staff.
+
+### 15. San Diego State University
 **Link to their cultural center:**  
 [Center for Intercultural Relations](https://sdsu.edu/intercultural-relations)
 
@@ -238,13 +266,14 @@ The Cross Cultural Center collaborates with ASI to support the diverse student b
 - Latinx Resource Center
 - Native Resource Center
 
-**Each center is made up of anywhere from 4 - 6 student staff
-
-**Made up of 4 professional staff**  
+**Each center is made up of anywhere from 4 - 6 student staff.**  
 **ASI Connections:**  
 The center collaborates with ASI to support diverse student populations through events and resources.
 
-### 17. San Francisco State University
+**Organizational Chart & Structural Information:**
+The Center for Intercultural Relations at SDSU is part of the Division of Student Affairs. It is led by a Director who supervises the coordinators of each cultural center. Each center is supported by student staff.
+
+### 16. San Francisco State University
 **Link to their cultural center:**  
 [Division of Equity & Community Inclusion](https://equity.sfsu.edu/)
 
@@ -258,7 +287,10 @@ The center collaborates with ASI to support diverse student populations through 
 **ASI Connections:**  
 The Division of Equity & Community Inclusion collaborates with ASI to provide resources and support for diverse student populations.
 
-### 18. San José State University
+**Organizational Chart & Structural Information:**
+The Division of Equity & Community Inclusion at SFSU is part of the Student Affairs division. Each cultural center has a coordinator who reports to the Director of Multicultural Affairs. The Director oversees all activities and supervises the student staff.
+
+### 17. San José State University
 **Link to their cultural center:**  
 [Mosaic Cross Cultural Center](https://www.sjsu.edu/mosaic/)
 
@@ -273,7 +305,10 @@ The Division of Equity & Community Inclusion collaborates with ASI to provide re
 **ASI Connections:**  
 The Mosaic Cross Cultural Center works with ASI to support and celebrate diversity on campus.
 
-### 19. California Polytechnic State University, San Luis Obispo
+**Organizational Chart & Structural Information:**
+The Mosaic Cross Cultural Center at SJSU is part of the Division of Student Affairs. Each center is managed by a coordinator who reports to the Director of Multicultural Affairs. The Director supervises all cultural center activities and student staff.
+
+### 18. California Polytechnic State University, San Luis Obispo
 **Link to their cultural center:**  
 [MultiCultural Center](https://culture.calpoly.edu/)
 
@@ -287,7 +322,10 @@ The Mosaic Cross Cultural Center works with ASI to support and celebrate diversi
 **ASI Connections:**  
 The MultiCultural Center collaborates with ASI to enhance student life and support diverse students.
 
-### 20. California State University, San Marcos
+**Organizational Chart & Structural Information:**
+The MultiCultural Center at Cal Poly San Luis Obispo is part of the Division of Student Affairs. It is led by a Director who oversees the coordinators of each cultural center. Each center is supported by student staff.
+
+### 19. California State University, San Marcos
 **Link to their cultural center:**  
 [Cross-Cultural Center](https://www.csusm.edu/campuslife/departments/ccc.html)
 
@@ -302,7 +340,10 @@ The MultiCultural Center collaborates with ASI to enhance student life and suppo
 **ASI Connections:**  
 The Cross-Cultural Center works with ASI to support the diverse student body at CSUSM.
 
-### 21. Sonoma State University
+**Organizational Chart & Structural Information:**
+The Cross-Cultural Center at CSU San Marcos is part of the Division of Student Affairs. Each center has a coordinator who reports to the Director of Multicultural Affairs. The Director oversees all cultural center activities and supervises the student staff.
+
+### 20. Sonoma State University
 **Link to their cultural center:**  
 [Multicultural Center](https://www.sonoma.edu/mcc)
 
@@ -317,7 +358,10 @@ The Cross-Cultural Center works with ASI to support the diverse student body at 
 **ASI Connections:**  
 The Multicultural Center collaborates with ASI to enhance student life and support diverse student populations.
 
-### 22. California State University, Stanislaus
+**Organizational Chart & Structural Information:**
+The Multicultural Center at Sonoma State University is part of the Division of Student Affairs. Each center is managed by a coordinator who reports to the Director of Multicultural Affairs. The Director oversees all activities and supervises the student staff.
+
+### 21. California State University, Stanislaus
 **Link to their cultural center:**  
 [Diversity Center](https://www.csustan.edu/diversity-center)
 
@@ -331,7 +375,10 @@ The Multicultural Center collaborates with ASI to enhance student life and suppo
 **ASI Connections:**  
 The Diversity Center collaborates with ASI to provide resources and support for diverse student populations.
 
-### 23. California State University Maritime Academy
+**Organizational Chart & Structural Information:**
+The Diversity Center at CSU Stanislaus is part of the Division of Student Affairs. Each center is managed by a coordinator who reports to the Director of Multicultural Affairs. The Director oversees all activities and supervises the student staff.
+
+### 22. California State University Maritime Academy
 **Link to their cultural center:**  
 [Equity and Inclusion Center](https://www.csum.edu/equity/)
 
@@ -344,4 +391,5 @@ The Diversity Center collaborates with ASI to provide resources and support for 
 **ASI Connections:**  
 The Equity and Inclusion Center works with ASI to support and celebrate diversity on campus.
 
-
+**Organizational Chart & Structural Information:**
+The Equity and Inclusion Center at CSU Maritime Academy is part of the Division of Student Affairs. Each center has a coordinator who reports to the Director of Multicultural Affairs. The Director oversees all activities and supervises the student staff.
